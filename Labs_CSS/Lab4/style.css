@@ -1,0 +1,25 @@
+h1 {
+
+    color: green;
+    border-bottom: 1px solid orange;
+
+}
+h2{
+    color: orange;
+
+}
+
+p {
+
+    font-size: large;
+
+    font-family: sans-serif;
+    margin-left: 100px;
+
+}
+img {
+
+    float: right;
+    margin: 0 12px;
+
+}
