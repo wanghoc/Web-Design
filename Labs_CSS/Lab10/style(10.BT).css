@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Product Sans";
+    src: url('Google/Google-New/Product\ Sans\ Bold.ttf');
+}
+p
+{
+    font-family: "Product Sans",sans-serif;
+    font-size: 90px;
+    letter-spacing: -11px;
+    text-align: center;
+}
+.blue { color: #4285f4; }
+
+.red { color: #ea4335; }
+
+.yellow { color: #fbbc05; }
+
+.green { color: #34a853; }
