@@ -17,7 +17,7 @@ a:link, a:visited { color: #DC6903; }
 a:focus, a:hover, a:active { color: #F9AB33; }
 header {
     color: white;
-    background:  url(D:\NCHK\Web-Design\Labs_CSS\images\plain_croissants_banner.jpg) no-repeat center center; 
+    background:  url(images/plain_croissants_banner.jpg) no-repeat center center; 
     background-size: cover;
     text-align: center; 
   }
